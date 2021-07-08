@@ -1,6 +1,14 @@
 # links
 
+### Books:
 
+[cs and programming books](https://github.com/namvdo/CS-and-Programming-Books)
+
+### DSA:
+
+[CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&ab_channel=CSDojo)
+[Programming with mosh](https://www.youtube.com/watch?v=BBpAmxU_NQo&ab_channel=ProgrammingwithMosh)
+[freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0&ab_channel=freeCodeCamp.org)
 
 
 ### Interviews:
@@ -33,4 +41,9 @@
 
 [CSS Grid Templates](https://www.quackit.com/html/templates/css_grid_templates.cfm)
 
-[9 awesome css layout generators: @Insharamin](https://twitter.com/Insharamin/status/1412426960165294086?s=20) 
+[9 awesome css layout generators: @Insharamin](https://twitter.com/Insharamin/status/1412426960165294086?s=20)
+
+[CSS crash course [github]](https://github.com/adamschwartz/magic-of-css)
+
+[30 seconds of css](https://github.com/30-seconds/30-seconds-of-css)
+
