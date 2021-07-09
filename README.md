@@ -37,6 +37,10 @@
 
 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 
+[Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
+
+
+
 #### CSS:
 
 [CSS Grid Templates](https://www.quackit.com/html/templates/css_grid_templates.cfm)
@@ -46,4 +50,8 @@
 [CSS crash course [github]](https://github.com/adamschwartz/magic-of-css)
 
 [30 seconds of css](https://github.com/30-seconds/30-seconds-of-css)
+
+#### Cheatsheets:
+
+[Rico's cheatsheets](https://devhints.io/)
 
