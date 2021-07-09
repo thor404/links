@@ -40,6 +40,16 @@
 [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 
+> 5 great websites:
+
+[1. Toptal](https://toptal.com/developers/gitignore)
+[2. Amplication](https://amplication.com/)
+[3. Amplication(git)](https://github.com/amplication/amplication)
+[4. website speed test](https://www.dareboost.com/en)
+[5. Reactive resume ](https://rxresu.me/)
+[6. webskills ](https://andreasbm.github.io/web-skills/)
+
+
 
 #### CSS:
 
