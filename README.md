@@ -4,6 +4,8 @@
 
 [cs and programming books](https://github.com/namvdo/CS-and-Programming-Books)
 
+[javaScript Books](https://jsbooks.revolunet.com/)
+
 ### DSA:
 
 [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&ab_channel=CSDojo)
@@ -60,6 +62,13 @@
 [CSS crash course [github]](https://github.com/adamschwartz/magic-of-css)
 
 [30 seconds of css](https://github.com/30-seconds/30-seconds-of-css)
+
+### javaScript:
+
+[JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+[javaScript Tutorial](https://www.javascripttutorial.net/)
+
 
 
 #### Github:
