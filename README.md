@@ -96,3 +96,15 @@
 
 [tridibasamanta/ cpp-beginner-to-expert](https://github.com/tridibsamanta/CPP_Beginner_to_Expert)
 
+[thewhitewulfy/ legacy cpp](https://github.com/theWhiteWulfy/legacy_cplusplus)
+
+[book-c-plus](https://github.com/PiSaucer/book-c-plus-plus)
+
+[cpp resources](https://github.com/andrmr/cpp_resources)
+
+[cpp course](https://github.com/kishanrajput23/Apna-College-CPP-Course)
+
+[learcpp-dot-com-quizzes](https://github.com/Ruturaj4/Learncpp-Dot-Com-Quizzes)
+
+[cpp learning](https://github.com/ratansingh98/CPP-Learning)
+
